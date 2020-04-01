@@ -9,11 +9,3 @@ class First {
         return 2;
     }
 }
-
-class Second {
-
-}
-
-class Third {
-
-}

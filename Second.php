@@ -9,7 +9,3 @@ class Second {
         return 22;
     }
 }
-
-class Third {
-
-}
